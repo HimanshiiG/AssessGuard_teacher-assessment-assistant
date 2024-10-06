@@ -1,1 +1,2 @@
-# AssessGuard_teacher-assessment-assistant
+- ### Developed an ML-driven teacher’s assessment assistant, leverages a fine-tuned BERT model on diverse dataset that distinguishes human and AI-generated text with 98% accuracy.
+- ### The ecosystem also incorporates a BART-based question generation system for diverse questions for ensuring comprehensive growth of students.
